@@ -615,7 +615,7 @@ var APP_DATA = {
       "infoHotspots": []
     }
   ],
-  "name": "Kueh Siak Hong Hawker Stall",
+  "name": "Kueh Siak Hong Hawker Stall - 360° VR Tour - 2023",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,
